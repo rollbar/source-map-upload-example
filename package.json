@@ -1,0 +1,8 @@
+{
+  "name": "source-map-upload",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "request": "2.44.0"
+  }
+}
